@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ThreeLayout</string>
+    <string name="row1_name">Open...</string>
+    <string name="row1_name2">Ctrl+O</string>
+    <string name="row2_name">Save...</string>
+    <string name="row2_name2">Ctrl+S</string>
+    <string name="row3_name">Save As...</string>
+    <string name="row3_name2">Ctrl+Shift+S</string>
+    <string name="row4_name">X Import...</string>
+    <string name="row5_name">X Export...</string>
+    <string name="row5_name2">Ctrl+E...</string>
+    <string name="row6_name">Quit</string>
+
+
+
+
+
+</resources>
